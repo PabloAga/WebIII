@@ -1,0 +1,28 @@
+GIT
+
+Es un sw que permite controlar versiones.
+Se ve los cambios que se van haciendo a un proyecto y nos da la info porejemplo horario, usuario.etc
+Guarda la version completa de todo el proyecto
+git nos permite comparar versiones para saber las modificaciones
+Nos permite identificar bugs ,
+branch:Develop se crea una nueva rama a partir de un commit
+mershear llevo todo loque esta en master a develop
+Pull request :abisa que lo quiere meter en master
+pull: traigo de la principal (master) en el caso que hace mucho que hiciste el comit 
+y no estar desactualizado
+
+git init: inicio en a un proyecto nuevo
+git clone:descargar un repositorio ya creado
+git fetch:
+git add: sube un cambio
+git commit -m "comentario"
+git push : agregar da git la modificacion
+git pull : trae todos los cambios de la rama principal
+git checkout: se dice a que rama quiero pasar para hacer un commit
+git branch
+git status:saber las modificaciones que se hizo
+git stage / stage apply
+
+git add . //agrega todo
+git commit -m 'mensaje'
+git remote add origin.....
